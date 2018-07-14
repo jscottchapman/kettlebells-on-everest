@@ -5,6 +5,7 @@ let friendFaces = [{
       "last": "Broadhead"
     },
     "jobTitle": "Environmental Tech",
+    "color": "red",
     "activities": {
       "swings": 500,
       "climbing": 2900
@@ -21,6 +22,7 @@ let friendFaces = [{
       "last": "Brooke"
     },
     "jobTitle": "Product Engineer",
+    "color": "orange",
     "activities": {
       "swings": 500,
       "climbing": 2900
@@ -37,6 +39,7 @@ let friendFaces = [{
       "last": "Chapman"
     },
     "jobTitle": "Speech Pathologist",
+    "color": "yellow",
     "activities": {
       "swings": 500,
       "climbing": 2900
@@ -53,6 +56,7 @@ let friendFaces = [{
       "last": "Crow"
     },
     "jobTitle": "GIS Technical Architect",
+    "color": "olive",
     "activities": {
       "swings": 500,
       "climbing": 2900
@@ -69,6 +73,7 @@ let friendFaces = [{
       "last": "Griffin"
     },
     "jobTitle": "Marketing Manager",
+    "color": "green",
     "activities": {
       "swings": 500,
       "climbing": 2900
@@ -85,6 +90,7 @@ let friendFaces = [{
       "last": "Iverson"
     },
     "jobTitle": "Clinical Specialist",
+    "color": "teal",
     "activities": {
       "swings": 500,
       "climbing": 2900
@@ -101,6 +107,7 @@ let friendFaces = [{
       "last": "Mills"
     },
     "jobTitle": "Geological Engineer",
+    "color": "blue",
     "activities": {
       "swings": 500,
       "climbing": 2900
@@ -117,6 +124,7 @@ let friendFaces = [{
       "last": "Norman"
     },
     "jobTitle": "Nurse Practicioner",
+    "color": "violet",
     "activities": {
       "swings": 500,
       "climbing": 2900
@@ -133,6 +141,7 @@ let friendFaces = [{
       "last": "Shuman"
     },
     "jobTitle": "Information Systems Manager",
+    "color": "purple",
     "activities": {
       "swings": 500,
       "climbing": 2900
@@ -149,6 +158,7 @@ let friendFaces = [{
       "last": "Talley"
     },
     "jobTitle": "Biostatistician I",
+    "color": "pink",
     "activities": {
       "swings": 500,
       "climbing": 2900
@@ -165,6 +175,7 @@ let friendFaces = [{
       "last": "Thomas"
     },
     "jobTitle": "Technical Writer",
+    "color": "brown",
     "activities": {
       "swings": 500,
       "climbing": 2900

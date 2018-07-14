@@ -15,6 +15,7 @@ class FriendList extends Component {
                 lastName={friend.name.last}
                 joined={friend.joined}
                 jobTitle={friend.jobTitle}
+                color={friend.color}
                 swings={friend.activities.swings}
                 climbing={friend.activities.climbing}
                 city={friend.city}
