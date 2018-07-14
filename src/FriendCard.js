@@ -1,33 +1,21 @@
 import React, { Component } from 'react'
 import { Card, Icon, Image } from 'semantic-ui-react'
 
-    // "id": 1,
-    // "name": {
-    //   "first": "Creight",
-    //   "last": "Tyrone"
-    // },
-    // "jobTitle": "Technical Writer",
-    // "joined": 2011,
-    // "friends": 59,
-    // "avatar": "https://robohash.org/etinvoluptatem.bmp?size=200x200&set=set1",
-    // "city": "El Paso",
-    // "state": "Texas"
-
 class FriendCard extends Component {
     render() {
         return (
             <Card>
-                <Image src='https://robohash.org/etinvoluptatem.bmp?size=200x200&set=set1' />
+                <Image src={this.props.avatar} />
                 <Card.Content>
-                    <Card.Header>Creight</Card.Header>
-                    <Card.Meta>Joined in 2011</Card.Meta>
+                    <Card.Header>{this.props.firstName}</Card.Header>
+                    <Card.Meta>Joined in {this.props.joined}</Card.Meta>
                     <Card.Description>
-                        Creight is a Technical Writer living in El Paso, Texas
+                        {this.props.firstName} is a {this.props.jobTitle} living in {this.props.city} {this.props.state}
                     </Card.Description>
                 </Card.Content>
                 <Card.Content extra>
                     <Icon name='user' />
-                    59 friends
+                    {this.props.friends} friends
                 </Card.Content>
             </Card>
         )
