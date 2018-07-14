@@ -12,6 +12,7 @@ class FriendList extends Component {
                 id={friend.id}
                 avatar={friend.avatar}
                 firstName={friend.name.first}
+                lastName={friend.name.last}
                 joined={friend.joined}
                 jobTitle={friend.jobTitle}
                 city={friend.city}
