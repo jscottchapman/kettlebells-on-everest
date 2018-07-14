@@ -15,15 +15,17 @@ class FriendCard extends Component {
                 </Card.Content>
                 <Card.Content extra>
                     <Progress
-                    value='4000'
+                    value={this.props.swings}
                     total='8000'
                     progress='percent'
+                    precision='0'
                     > Swings
                     </Progress>
                     <Progress
-                    value='4000'
-                    total='8000'
+                    value={this.props.climbing}
+                    total='29029'
                     progress='percent'
+                    precision='0'
                     > Climbing
                     </Progress>
                 </Card.Content>

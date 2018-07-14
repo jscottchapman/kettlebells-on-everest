@@ -5,6 +5,10 @@ let friendFaces = [{
       "last": "Broadhead"
     },
     "jobTitle": "Environmental Tech",
+    "activities": {
+      "swings": 500,
+      "climbing": 2900
+    },
     "joined": 2002,
     "friends": 29,
     "avatar": "https://robohash.org/quiaquicommodi.bmp?size=200x200&set=set1",
@@ -17,6 +21,10 @@ let friendFaces = [{
       "last": "Brooke"
     },
     "jobTitle": "Product Engineer",
+    "activities": {
+      "swings": 500,
+      "climbing": 2900
+    },
     "joined": 2012,
     "friends": 32,
     "avatar": "https://robohash.org/nequeconsequaturnesciunt.jpg?size=200x200&set=set1",
@@ -29,6 +37,10 @@ let friendFaces = [{
       "last": "Chapman"
     },
     "jobTitle": "Speech Pathologist",
+    "activities": {
+      "swings": 500,
+      "climbing": 2900
+    },
     "joined": 2016,
     "friends": 73,
     "avatar": "https://robohash.org/nemoquosporro.bmp?size=200x200&set=set1",
@@ -41,6 +53,10 @@ let friendFaces = [{
       "last": "Crow"
     },
     "jobTitle": "GIS Technical Architect",
+    "activities": {
+      "swings": 500,
+      "climbing": 2900
+    },
     "joined": 2001,
     "friends": 48,
     "avatar": "https://robohash.org/liberohicex.png?size=200x200&set=set1",
@@ -53,6 +69,10 @@ let friendFaces = [{
       "last": "Griffin"
     },
     "jobTitle": "Marketing Manager",
+    "activities": {
+      "swings": 500,
+      "climbing": 2900
+    },
     "joined": 2014,
     "friends": 41,
     "avatar": "https://robohash.org/quossaepeerror.jpg?size=200x200&set=set1",
@@ -65,6 +85,10 @@ let friendFaces = [{
       "last": "Iverson"
     },
     "jobTitle": "Clinical Specialist",
+    "activities": {
+      "swings": 500,
+      "climbing": 2900
+    },
     "joined": 2006,
     "friends": 97,
     "avatar": "https://robohash.org/dolorestemporasoluta.jpg?size=200x200&set=set1",
@@ -77,6 +101,10 @@ let friendFaces = [{
       "last": "Mills"
     },
     "jobTitle": "Geological Engineer",
+    "activities": {
+      "swings": 500,
+      "climbing": 2900
+    },
     "joined": 2014,
     "friends": 73,
     "avatar": "https://robohash.org/eaquideserunt.bmp?size=200x200&set=set1",
@@ -89,6 +117,10 @@ let friendFaces = [{
       "last": "Norman"
     },
     "jobTitle": "Nurse Practicioner",
+    "activities": {
+      "swings": 500,
+      "climbing": 2900
+    },
     "joined": 2009,
     "friends": 92,
     "avatar": "https://robohash.org/sitvoluptatibuscupiditate.bmp?size=200x200&set=set1",
@@ -101,6 +133,10 @@ let friendFaces = [{
       "last": "Shuman"
     },
     "jobTitle": "Information Systems Manager",
+    "activities": {
+      "swings": 500,
+      "climbing": 2900
+    },
     "joined": 2007,
     "friends": 15,
     "avatar": "https://robohash.org/pariatursedsed.jpg?size=200x200&set=set1",
@@ -113,6 +149,10 @@ let friendFaces = [{
       "last": "Talley"
     },
     "jobTitle": "Biostatistician I",
+    "activities": {
+      "swings": 500,
+      "climbing": 2900
+    },
     "joined": 2010,
     "friends": 71,
     "avatar": "https://robohash.org/dolorinciduntaperiam.jpg?size=200x200&set=set1",
@@ -125,6 +165,10 @@ let friendFaces = [{
       "last": "Thomas"
     },
     "jobTitle": "Technical Writer",
+    "activities": {
+      "swings": 500,
+      "climbing": 2900
+    },
     "joined": 2011,
     "friends": 59,
     "avatar": "https://robohash.org/etinvoluptatem.bmp?size=200x200&set=set1",

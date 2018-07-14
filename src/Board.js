@@ -15,6 +15,8 @@ class FriendList extends Component {
                 lastName={friend.name.last}
                 joined={friend.joined}
                 jobTitle={friend.jobTitle}
+                swings={friend.activities.swings}
+                climbing={friend.activities.climbing}
                 city={friend.city}
                 state={friend.state}
                 friends={friend.friends}
@@ -31,7 +33,7 @@ class Board extends Component {
                 <IconHeader />
                 <Divider />
                 <Container>
-                    <Card.Group itemsPerRow={5}>
+                    <Card.Group itemsPerRow={3}>
                         <FriendList /> 
                     </Card.Group>
                 </Container>

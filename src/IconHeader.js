@@ -8,7 +8,7 @@ class IconHeader extends Component{
                 <Image
                 src='kettlebellsCoverImage.jpg'
                 size='large'
-                space='bottom'
+                space='top'
                 centered
                 rounded
                 />
