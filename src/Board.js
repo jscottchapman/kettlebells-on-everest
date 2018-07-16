@@ -21,6 +21,8 @@ class FriendList extends Component {
                 city={friend.city}
                 state={friend.state}
                 friends={friend.friends}
+                sore={friend.sore}
+                thinksAbout={friend.thinksAbout}
             />
         ))
         return friendList
