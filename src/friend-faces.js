@@ -8,11 +8,11 @@ let friendFaces = [{
     "color": "red",
     "activities": {
       "swings": 0,
-      "climbing": 3087
+      "climbing": 9135
     },
     "joined": 2002,
     "sore": "None",
-    "thinksAbout": "Don't know yet. I have to find a kettlebell heavier than 40lb",
+    "thinksAbout": "Hiking",
     "friends": 29,
     "avatar": "https://robohash.org/quiaquicommodi.bmp?size=200x200&set=set1",
     "city": "Missoula",
@@ -45,12 +45,12 @@ let friendFaces = [{
     "jobTitle": "Speech Pathologist",
     "color": "yellow",
     "activities": {
-      "swings": 500,
-      "climbing": 2685
+      "swings": 820,
+      "climbing": 10052
     },
     "joined": 2016,
-    "sore": "Medium",
-    "thinksAbout": "Is this fan on?!?!?",
+    "sore": "None",
+    "thinksAbout": "Does this make my booty look big?",
     "friends": 73,
     "avatar": "https://robohash.org/nemoquosporro.bmp?size=200x200&set=set1",
     "city": "Missoula",
@@ -65,10 +65,10 @@ let friendFaces = [{
     "color": "olive",
     "joined": 1011,
     "sore": "None",
-    "thinksAbout": "I need to watch some YouTube vids and learn how to swing... :)",
+    "thinksAbout": "breathing or not breathing",
     "activities": {
-      "swings": 0,
-      "climbing": 556
+      "swings": 60,
+      "climbing": 1206
     },
     "friends": 48,
     "avatar": "https://robohash.org/liberohicex.png?size=200x200&set=set1",
@@ -83,12 +83,12 @@ let friendFaces = [{
     "jobTitle": "Marketing Manager",
     "color": "green",
     "activities": {
-      "swings": 128,
-      "climbing": 3410
+      "swings": 268,
+      "climbing": 5339
     },
     "joined": 2014,
-    "sore": "Medium",
-    "thinksAbout": "Concerned about hitting my ceiling",
+    "sore": "None",
+    "thinksAbout": "still worried about my ceiling.... and llamas",
     "friends": 41,
     "avatar": "https://robohash.org/quossaepeerror.jpg?size=200x200&set=set1",
     "city": "Missoula",
@@ -102,12 +102,12 @@ let friendFaces = [{
     "jobTitle": "Clinical Specialist",
     "color": "teal",
     "activities": {
-      "swings": 200,
-      "climbing": 1596
+      "swings": 400,
+      "climbing": 2182
     },
     "joined": 2006,
-    "sore": "Medium",
-    "thinksAbout": "form",
+    "sore": "None",
+    "thinksAbout": "bootybootybooty",
     "friends": 97,
     "avatar": "https://robohash.org/dolorestemporasoluta.jpg?size=200x200&set=set1",
     "city": "Missoula",
