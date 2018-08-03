@@ -6,7 +6,7 @@ class FriendCard extends Component {
         if(this.props.sore) {
             return (
             <Card.Description>
-            {this.props.firstName} reports feeling this amount of soreness: {this.props.sore}
+            {this.props.firstName} feels this amount of soreness: {this.props.sore}
             </Card.Description>
             )
         } else {
