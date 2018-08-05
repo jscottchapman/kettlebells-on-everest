@@ -45,12 +45,12 @@ let friendFaces = [{
     "jobTitle": "Speech Pathologist",
     "color": "yellow",
     "activities": {
-      "swings": 820,
-      "climbing": 10052
+      "swings": 1530,
+      "climbing": 12338
     },
     "joined": 2016,
-    "sore": "None",
-    "thinksAbout": "Does this make my booty look big?",
+    "sore": "Very",
+    "thinksAbout": "Breathing",
     "friends": 73,
     "avatar": "https://robohash.org/nemoquosporro.bmp?size=200x200&set=set1",
     "city": "Missoula",
@@ -83,12 +83,12 @@ let friendFaces = [{
     "jobTitle": "Marketing Manager",
     "color": "green",
     "activities": {
-      "swings": 268,
-      "climbing": 5339
+      "swings": 338,
+      "climbing": 7283
     },
     "joined": 2014,
-    "sore": "None",
-    "thinksAbout": "still worried about my ceiling.... and llamas",
+    "sore": "Medium",
+    "thinksAbout": "Ice Cream",
     "friends": 41,
     "avatar": "https://robohash.org/quossaepeerror.jpg?size=200x200&set=set1",
     "city": "Missoula",
@@ -102,12 +102,12 @@ let friendFaces = [{
     "jobTitle": "Clinical Specialist",
     "color": "teal",
     "activities": {
-      "swings": 400,
+      "swings": 540,
       "climbing": 2182
     },
     "joined": 2006,
     "sore": "None",
-    "thinksAbout": "bootybootybooty",
+    "thinksAbout": "Breathing correctly",
     "friends": 97,
     "avatar": "https://robohash.org/dolorestemporasoluta.jpg?size=200x200&set=set1",
     "city": "Missoula",
