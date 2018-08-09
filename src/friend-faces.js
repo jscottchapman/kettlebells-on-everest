@@ -45,12 +45,12 @@ let friendFaces = [{
     "jobTitle": "Speech Pathologist",
     "color": "yellow",
     "activities": {
-      "swings": 1530,
-      "climbing": 12338
+      "swings": 2030,
+      "climbing": 19366
     },
     "joined": 2016,
     "sore": "Very",
-    "thinksAbout": "Breathing",
+    "thinksAbout": "Races I have coming up",
     "friends": 73,
     "avatar": "https://robohash.org/nemoquosporro.bmp?size=200x200&set=set1",
     "city": "Missoula",
@@ -65,10 +65,10 @@ let friendFaces = [{
     "color": "olive",
     "joined": 1011,
     "sore": "None",
-    "thinksAbout": "breathing or not breathing",
+    "thinksAbout": "AHHHH!",
     "activities": {
       "swings": 60,
-      "climbing": 1206
+      "climbing": 3306
     },
     "friends": 48,
     "avatar": "https://robohash.org/liberohicex.png?size=200x200&set=set1",
@@ -83,12 +83,12 @@ let friendFaces = [{
     "jobTitle": "Marketing Manager",
     "color": "green",
     "activities": {
-      "swings": 338,
-      "climbing": 7283
+      "swings": 463,
+      "climbing": 12244
     },
     "joined": 2014,
-    "sore": "Medium",
-    "thinksAbout": "Ice Cream",
+    "sore": "Very",
+    "thinksAbout": "Latin Pop",
     "friends": 41,
     "avatar": "https://robohash.org/quossaepeerror.jpg?size=200x200&set=set1",
     "city": "Missoula",
@@ -102,12 +102,12 @@ let friendFaces = [{
     "jobTitle": "Clinical Specialist",
     "color": "teal",
     "activities": {
-      "swings": 540,
-      "climbing": 2182
+      "swings": 600,
+      "climbing": 2482
     },
     "joined": 2006,
     "sore": "None",
-    "thinksAbout": "Breathing correctly",
+    "thinksAbout": "how far behind I am in this challenge ;)",
     "friends": 97,
     "avatar": "https://robohash.org/dolorestemporasoluta.jpg?size=200x200&set=set1",
     "city": "Missoula",
