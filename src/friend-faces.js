@@ -45,12 +45,12 @@ let friendFaces = [{
     "jobTitle": "Speech Pathologist",
     "color": "yellow",
     "activities": {
-      "swings": 2030,
-      "climbing": 19366
+      "swings": 2830,
+      "climbing": 29366
     },
     "joined": 2016,
-    "sore": "Very",
-    "thinksAbout": "Races I have coming up",
+    "sore": "Medium",
+    "thinksAbout": "Form",
     "friends": 73,
     "avatar": "https://robohash.org/nemoquosporro.bmp?size=200x200&set=set1",
     "city": "Missoula",
@@ -83,12 +83,12 @@ let friendFaces = [{
     "jobTitle": "Marketing Manager",
     "color": "green",
     "activities": {
-      "swings": 463,
-      "climbing": 12244
+      "swings": 643,
+      "climbing": 14344
     },
     "joined": 2014,
-    "sore": "Very",
-    "thinksAbout": "Latin Pop",
+    "sore": "Medium",
+    "thinksAbout": "Ice Cream",
     "friends": 41,
     "avatar": "https://robohash.org/quossaepeerror.jpg?size=200x200&set=set1",
     "city": "Missoula",
@@ -102,12 +102,12 @@ let friendFaces = [{
     "jobTitle": "Clinical Specialist",
     "color": "teal",
     "activities": {
-      "swings": 600,
+      "swings": 670,
       "climbing": 2482
     },
     "joined": 2006,
     "sore": "None",
-    "thinksAbout": "how far behind I am in this challenge ;)",
+    "thinksAbout": "Ice Cream",
     "friends": 97,
     "avatar": "https://robohash.org/dolorestemporasoluta.jpg?size=200x200&set=set1",
     "city": "Missoula",
